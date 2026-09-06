@@ -1,5 +1,7 @@
 # California House Price Prediction
+## Live Demo
 
+[Open the California House Price Prediction App](https://california-housing-price-prediction-tuplawnenycmzhxvwappirp.streamlit.app/)
 End-to-end machine learning project for predicting California house prices using Python, Scikit-learn, preprocessing pipelines, and Random Forest regression.
 
 ## Project Overview
